@@ -13,6 +13,7 @@ public class Main {
         //xjeden=(-b-pierwiastekdelta)/(2*a)
         //xdwa=(-b+pierwiastekdelta)/(2*a)
         // write your code here
+        System.out.println("Program liczy równanie kwadratowe f(x)=ax2-bx-c");
         Scanner wej = new Scanner(System.in);
         System.out.println("Podaj zmienną a");
         double a = wej.nextInt();
